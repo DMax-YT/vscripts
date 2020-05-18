@@ -27,7 +27,7 @@ function chs_DisableChanging(){ent_fire(chs_TIMER_NAME, "Disable")}
 
 function chs_Change(snowball = null) {
 	foreach(snow_model in snowballs) {
-		while((nowball = Entities.FindByModel(snowball, snow_model)) {
+		while(nowball = Entities.FindByModel(snowball, snow_model)) {
 			snowball.SetModel(ball);
 		}
 	}
