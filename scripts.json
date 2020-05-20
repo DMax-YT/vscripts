@@ -6,7 +6,7 @@
 		"description": "Меняет снежок на футбольный мяч",
 		"script_name": "change_snowball.nut",
 		"requirements": []
-	}
+	},
 	{
 		"name": "Knife battle",
 		"download_url": "https://raw.githubusercontent.com/DMax-YT/vscripts/master/knife_battle.nut",
