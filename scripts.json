@@ -4,7 +4,7 @@
 		"download_url": "https://raw.githubusercontent.com/DMax-YT/vscripts/master/change_snowball.nut",
 		"author": "DMax",
 		"description": "Change every snowball to ball",
-		"script_name": "change_snowball.nut",
+		"script_name": "change_snowball_test.nut",
 		"requirements": []
 	}
 ]
