@@ -10,6 +10,23 @@
 		"video_url": "",
 		"download_url": "https://raw.githubusercontent.com/DMax-YT/vscripts/master/knife_battle.nut",
 		"script_name": "knife_battle.nut",
-		"commands": []
+		"commands": [
+			{
+				"description": "fuck my ass",
+				"command": "script printl(1)"
+			},
+			{
+				"description": "fuck my ass2",
+				"command": "script printl(21)"
+			},
+			{
+				"description": "fuck my ass3",
+				"command": "script printl(11)"
+			},
+			{
+				"description": "fuck my ass4",
+				"command": "script printl(10)"
+			}
+		]
 	}
 ]
