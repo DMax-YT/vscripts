@@ -1,10 +1,14 @@
 [
 	{
 		"name": "Knife battle",
-		"download_url": "https://raw.githubusercontent.com/DMax-YT/vscripts/master/knife_battle.nut",
-		"author": "Marshak",
+		"author": {
+			"name": "Marshak",
+			"channel_url": "https://www.youtube.com/c/marshak90"
+		},
 		"description": "Удаляет все оружие кроме ножа",
+		"requirements": [],
+		"download_url": "https://raw.githubusercontent.com/DMax-YT/vscripts/master/knife_battle.nut",
 		"script_name": "knife_battle.nut",
-		"requirements": []
+		"commands": []
 	}
 ]
